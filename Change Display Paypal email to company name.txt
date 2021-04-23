@@ -1,0 +1,9 @@
+You can change heading to your business name if you have a Business PayPal account.
+You can do this by logging into your PayPal account,
+click on profile under my account,
+click my Business Info,
+click update next to Business Information,
+click change name next to your name,
+select Business Name Change (business name),
+click continue,
+change the name and click continue and the name will be changed.
